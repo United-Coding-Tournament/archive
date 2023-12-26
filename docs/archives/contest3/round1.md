@@ -2,7 +2,7 @@
 
 ---
 
-## Problem 1 
+## Problem 1: Secret Base
 
 **Problem Statement**
 
